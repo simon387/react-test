@@ -2,3 +2,5 @@
 + yarn add node-sass
 
 + yarn add react-router-dom
+
++ yarn add firebase
