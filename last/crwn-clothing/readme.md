@@ -4,3 +4,5 @@
 + yarn add react-router-dom
 
 + yarn add firebase
+
++ yarn add redux redux-logger react-redux
