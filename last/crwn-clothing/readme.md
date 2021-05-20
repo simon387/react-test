@@ -8,3 +8,6 @@
 + yarn add redux redux-logger react-redux
 
 + yarn add reselect
+
++ yarn add redux-persist
+
