@@ -6,3 +6,5 @@
 + yarn add firebase
 
 + yarn add redux redux-logger react-redux
+
++ yarn add reselect
