@@ -11,3 +11,4 @@
 
 + yarn add redux-persist
 
++ yarn add react-stripe-checkout
