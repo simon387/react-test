@@ -12,3 +12,8 @@
 + yarn add redux-persist
 
 + yarn add react-stripe-checkout
+
+## heroku
++ loggarsi da CLI, ```heroku login```
++ ```heroku create crwn-live-simone --buildpack http://github.com/mars/create-react-app-buildpack.git```
++ ```git push heroku master```
